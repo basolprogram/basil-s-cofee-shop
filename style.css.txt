@@ -1,0 +1,13 @@
+body {
+    font-family: Arial;
+    text-align: center;
+    background: #c4a484;
+}
+
+.item {
+    background: white;
+    padding: 20px;
+    margin: 20px;
+    display: inline-block;
+    border-radius: 10px;
+}

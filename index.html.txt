@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Basil Coffee Shop</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<h1>☕ Basil's Coffee Shop</h1>
+
+<div class="item">
+<h2>Espresso</h2>
+<button onclick="buy()">Buy</button>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
